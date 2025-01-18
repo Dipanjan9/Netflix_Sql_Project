@@ -1,5 +1,7 @@
 # Netflix SQL Project
 
+![Netflix Logo](logo.png)
+
 ## Overview
 This project involves analyzing Netflix data using SQL. The goal is to extract meaningful insights and trends from the dataset.
 
